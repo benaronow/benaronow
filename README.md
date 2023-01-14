@@ -11,7 +11,7 @@
   - [Image Processor](https://github.com/benaronow/ImageProcessor)
   - [Maze Solving Algorithm]
   - [Flood It Game Clone]
-- <b>Web App Backend Prototype (SQL, Python)</b>
+- <b>Web App Backend (SQL, Python)</b>
   - [Food Delivery Service Database]
 
 <h2>YouTube Demonstrations</h2>
