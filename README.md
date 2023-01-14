@@ -20,7 +20,7 @@
 [<img align="left" alt="BenAronow | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="BenAronow | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<a href="mailto:benaronow227@gmail.com">[gmail]</a>
+[gmail]: mailto:benaronow227@gmail.com
 [linkedin]: https://linkedin.com/in/benaronow
 
 <!--
