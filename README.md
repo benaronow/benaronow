@@ -1,4 +1,5 @@
 <h1>Hi, I'm Ben!</h1>
+<h3>My pronouns are he/him</h3>
 
 <h2>Software Development Projects:</h2>
 
