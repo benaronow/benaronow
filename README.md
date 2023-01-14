@@ -6,9 +6,9 @@
 <h2>Software Development Projects:</h2>
 
 - <b>Python</b>
-  - [Stock Market and Twitter Correlation Analysis]
+  - [Stock Market and Twitter Correlation Analysis](https://github.com/benaronow/Stock-Market-and-Twitter-Correlation-Analysis)
 - <b>Java</b>
-  - [Image Processor](https://github.com/benaronow/ImageProcessor)
+  - [Image Processor](https://github.com/benaronow/Image-Processor)
   - [Maze Solving Algorithm]
   - [Flood It Game Clone]
 - <b>Web App Backend (SQL, Python)</b>
