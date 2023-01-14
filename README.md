@@ -9,8 +9,8 @@
   - [Stock Market and Twitter Correlation Analysis](https://github.com/benaronow/Stock-Market-and-Twitter-Correlation-Analysis)
 - <b>Java</b>
   - [Image Processor](https://github.com/benaronow/Image-Processor)
-  - [Maze Pathfinder Algorithm]
-  - [Flood It Game Clone]
+  - [Maze Generation and Pathfinder Algorithm](https://github.com/benaronow/Maze-Generation-and-Pathfinder-Algorithm)
+  - [Flood It Game Clone](https://github.com/benaronow/Flood-It-Game-Clone)
 - <b>Web App Backend (SQL, Python)</b>
   - [Food Delivery Service Database](https://github.com/benaronow/Food-Delivery-Service-Database)
 
