@@ -20,10 +20,8 @@
 [<img align="left" alt="BenAronow | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="BenAronow | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[gmail]: <a href= mailto: "benaronow227@gmail.com">
+[gmail]: <a href="mailto:benaronow227@gmail.com">Send Email</a>
 [linkedin]: https://linkedin.com/in/benaronow
-
-<a href="mailto:benaronow227@gmail.com">Send Email</a>
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
