@@ -13,8 +13,6 @@
 - <b>Web App Backend (SQL, Python)</b>
   - [Food Delivery Service Database](https://github.com/benaronow/Food-Delivery-Service-Database)
 
-<h2>Video Demonstrations</h2>
-
 <h2>Connect with me</h2>
 
 [<img align="left" alt="BenAronow | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
