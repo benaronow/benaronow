@@ -1,6 +1,7 @@
 <h1>Hi, I'm Ben!</h1>
-
-<h2>My pronouns are he/him</h2>
+- Currently studying Computer Science with a concentration in Software
+- Pronouns are he/him
+- Ready and eager to learn new things!
 
 <h2>Software Development Projects:</h2>
 
