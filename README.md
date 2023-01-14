@@ -12,7 +12,7 @@
   - [Maze Solving Algorithm]
   - [Flood It Game Clone]
 - <b>Web App Backend (SQL, Python)</b>
-  - [Food Delivery Service Database]
+  - [Food Delivery Service Database](https://github.com/benaronow/Food-Delivery-Service-Database)
 
 <h2>Video Demonstrations</h2>
 
