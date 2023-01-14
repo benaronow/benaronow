@@ -11,17 +11,17 @@
 - <b>Web App Backend Prototype (SQL, Python)</b>
   - [Food Delivery Service Database]
 
-<h2>📺 YouTube Demonstrations</h2>
+<h2>YouTube Demonstrations</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
-<h2> 🤳 Connect with me:</h2>
+<h2>Connect with me:</h2>
 
 [<img align="left" alt="BenAronow | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="BenAronow | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [gmail]: <a href= mailto: "benaronow227@gmail.com">
-[linkedin]: linkedin.com/in/benaronow
+[linkedin]: https:linkedin.com/in/benaronow
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
