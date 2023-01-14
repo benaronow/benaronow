@@ -21,7 +21,7 @@
 [<img align="left" alt="BenAronow | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [gmail]: <a href= mailto: "benaronow227@gmail.com">
-[linkedin]: https:linkedin.com/in/benaronow
+[linkedin]: https://linkedin.com/in/benaronow
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
