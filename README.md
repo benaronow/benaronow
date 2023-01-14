@@ -1,6 +1,6 @@
 <h1>Hi, I'm Ben!</h1>
 - I'm currently studying Computer Science at Northeastern with a concentration in Software</br>
-- My pronouns are he/him/his
+- My pronouns are he/him/his</br>
 - I'm always ready and eager to learn new things!
 
 <h2>Software Development Projects:</h2>
