@@ -1,5 +1,5 @@
 <h1>Hi, I'm Ben!</h1>
-- Currently studying Computer Science with a concentration in Software
+- Currently studying Computer Science with a concentration in Software</br>
 - Pronouns are he/him
 - Ready and eager to learn new things!
 
