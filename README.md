@@ -1,6 +1,8 @@
 <h1>Hi, I'm Ben!</h1>
-- Currently studying Computer Science at Northeastern with a concentration in Software</br>
-- Always ready and eager to learn new things!
+
+- Currently studying Computer Science at Northeastern with a concentration in Software
+- Open to work in software development positions
+- Always ready and eager to learn new things
 
 <h2>Software Development Projects</h2>
 
