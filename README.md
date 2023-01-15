@@ -1,4 +1,4 @@
-<h1>Hello World, I'm Ben!</h1>
+<h1>Hi, I'm Ben!</h1>
 
 - Currently studying Computer Science at Northeastern with a concentration in Software
 - Open to work in software development positions
