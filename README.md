@@ -14,6 +14,8 @@
   - [Flood It Game Clone](https://github.com/benaronow/Flood-It-Game-Clone)
 - <b>Web App Backend (SQL, Python)</b>
   - [Food Delivery Service Prototype](https://github.com/benaronow/Food-Delivery-Service-Prototype)
+- <b>React Website (Javascript, HTML, CSS)</b>
+  - [Personal Portfolio Webiste](https://github.com/benaronow/Personal-Portfolio-Website)
 
 <h2>Connect with me</h2>
 
@@ -24,7 +26,7 @@
 [linkedin]: https://linkedin.com/in/benaronow
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**benaronow/benaronow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
