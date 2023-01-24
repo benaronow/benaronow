@@ -18,7 +18,7 @@
   - [Personal Portfolio Webiste](https://github.com/benaronow/Personal-Portfolio-Website)
 
 <h2>Project Demonstration Videos</h2>
-Demonstrations can be found at this link: <a href='https://www.youtube.com/@benaronow227'>youtube.com/@benaronow227</a>
+Demonstrations on my YouTube channel can be found at this link: <a href='https://www.youtube.com/@benaronow227'>youtube.com/@benaronow227</a>.
 
 <h2>Connect with me</h2>
 
